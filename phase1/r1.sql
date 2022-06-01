@@ -1,3 +1,3 @@
-SELECT    ncli, nom
+SELECT    numClient, nomClient
 FROM      Client
-ORDER BY  nom;
+ORDER BY  nomClient;
